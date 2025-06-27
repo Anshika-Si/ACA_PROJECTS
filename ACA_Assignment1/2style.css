@@ -1,0 +1,14 @@
+#main{
+    background-color: cadetblue;
+    border: 2px,solid,black;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+#box{
+    height: 300px;
+    width: 300px;
+    background-color:coral;
+    border: 3px,solid,black;
+    text-align: center;
+}
